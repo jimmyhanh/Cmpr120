@@ -1,0 +1,80 @@
+	Statistics
+	-------------------------------------------
+	 Total # character(s)         : 3936
+		# of vowel(s)         : 1171
+
+		    ----Upper cases----
+			A:         5
+			E:         7
+			I:         2
+			O:         3
+			U:         1
+
+		    ----Lower cases----
+			a:       248
+			e:       342
+			i:       279
+			o:       204
+			u:        80
+
+		# of consonant(s)     : 1815
+
+		    ----Upper cases----
+			B:         2
+			C:         3
+			F:         5
+			G:         5
+			H:         5
+			J:         1
+			K:         0
+			L:         6
+			N:         2
+			N:         2
+			P:        28
+			Q:         0
+			R:         2
+			S:         2
+			T:        11
+			V:         0
+			W:         0
+			X:         0
+			Y:         0
+			Z:         0
+
+		    ----Lower cases---- 
+			b:        41
+			b:       130
+			d:       110
+			f:        52
+			g:        47
+			h:       120
+			j:         1
+			k:         9
+			l:       137
+			m:        90
+			n:       209
+			p:        55
+			q:         5
+			r:       179
+			s:       189
+			t:       252
+			v:        22
+			w:        42
+			x:         7
+			y:        37
+			z:         3
+
+		# of digit(s)          : 184
+			0         18
+			1         24
+			2         24
+			3         22
+			4         16
+			5         13
+			6         17
+			7         16
+			8         16
+			9         18
+		# of space(s)          : 619
+		# of punctuation(s)    : 120
+		# of other character(s): 27
