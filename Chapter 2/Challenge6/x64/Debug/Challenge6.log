@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Challenge6.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+D:\CMPR120\Chapter 2\Chapter2\Challenge6\main.cpp(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Challenge6.vcxproj -> D:\CMPR120\Chapter 2\Chapter2\x64\Debug\Challenge06.exe
