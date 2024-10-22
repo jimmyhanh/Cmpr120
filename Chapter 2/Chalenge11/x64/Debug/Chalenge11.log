@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\CMPR120\Chapter 2\Chapter2\Chalenge11\main.cpp(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\CMPR120\Chapter 2\Chapter2\Chalenge11\main.cpp(13,37): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Chalenge11.vcxproj -> D:\CMPR120\Chapter 2\Chapter2\x64\Debug\Chalenge11.exe
