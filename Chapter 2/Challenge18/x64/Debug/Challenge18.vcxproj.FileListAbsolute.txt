@@ -1,0 +1,2 @@
+D:\CMPR120\Chapter 2\Chapter2\x64\Debug\Challenge18.exe.lastcodeanalysissucceeded
+D:\CMPR120\Chapter 2\Chapter2\Challenge18\x64\Debug\NativeCodeAnalysis.read.1.tlog

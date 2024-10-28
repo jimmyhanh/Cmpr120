@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\CMPR120\Chapter 2\Chapter2\Challenge18\main.cpp(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\CMPR120\Chapter 2\Chapter2\Challenge18\main.cpp(18,41): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\CMPR120\Chapter 2\Chapter2\Challenge18\main.cpp(19,45): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Challenge18.vcxproj -> D:\CMPR120\Chapter 2\Chapter2\x64\Debug\Challenge18.exe
