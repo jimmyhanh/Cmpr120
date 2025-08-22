@@ -1,4 +1,0 @@
-﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Challenge8.vcxproj).  This can lead to incorrect clean and rebuild behavior.
-  main.cpp
-E:\CMPR120\Chapter5\Challenge8\main.cpp(27,23): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Challenge8.vcxproj -> E:\CMPR120\Chapter5\x64\Debug\Challenge08.exe

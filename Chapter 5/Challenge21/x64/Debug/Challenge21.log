@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\CMPR120\Chapter5\Challenge21\main.cpp(23,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Challenge21.vcxproj -> E:\CMPR120\Chapter5\x64\Debug\Challenge21.exe
