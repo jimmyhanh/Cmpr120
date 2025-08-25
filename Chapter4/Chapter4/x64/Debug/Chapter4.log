@@ -1,4 +1,0 @@
-﻿  main.cpp
-D:\CMPR120\Chapter4\Chapter4\main.cpp(5,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-D:\CMPR120\Chapter4\Chapter4\main.cpp(6,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-  Chapter4.vcxproj -> D:\CMPR120\Chapter4\x64\Debug\Challenge27.exe
