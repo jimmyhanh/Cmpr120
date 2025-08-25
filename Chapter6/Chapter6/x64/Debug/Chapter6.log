@@ -1,0 +1,3 @@
+﻿  main.cpp
+G:\CMPR120\Chapter6\Chapter6\main.cpp(623,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Chapter6.vcxproj -> G:\CMPR120\Chapter6\x64\Debug\Chapter6.exe
